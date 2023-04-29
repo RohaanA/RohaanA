@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohaana&label=Profile%20views&color=0e75b6&style=flat" alt="rohaana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohaana" alt="rohaana" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rohaan_tw" target="blank"><img src="https://img.shields.io/twitter/follow/rohaan_tw?logo=twitter&style=for-the-badge" alt="rohaan_tw" /></a> </p>
 
 - 🔭 I’m currently working on **implementing MapReduce using OpenMPI**
